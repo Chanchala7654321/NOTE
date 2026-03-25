@@ -1,0 +1,126 @@
+
+JavaScript Complete Topic List
+Basics / Fundamentals
+Introduction to JavaScript
+JavaScript syntax
+Variables (var, let, const)
+Data types (string, number, boolean, null, undefined, symbol, bigint)
+Operators (arithmetic, comparison, logical, assignment, ternary)
+Type conversion & type coercion
+Comments
+Output methods (console.log, alert, document.write)
+Control Flow
+Conditional statements (if, else if, else, switch)
+Loops (for, while, do...while, for...of, for...in)
+Break & continue
+Functions
+Function declaration & expression
+Arrow functions
+Parameters & arguments
+Default parameters
+Rest & spread operators
+Return statement
+IIFE (Immediately Invoked Function Expression)
+Callback functions
+Higher-order functions
+Objects & Arrays
+Arrays (creation, access, iteration)
+Array methods (push, pop, shift, unshift, map, filter, reduce, forEach, find, some, every, sort,
+splice)
+Objects (properties, methods)
+Object destructuring
+Object methods (Object.keys, Object.values, Object.entries, hasOwnProperty)
+Nested objects & arrays
+Strings
+String methods (length, slice, substring, substr, replace, split, trim, toLowerCase, toUpperCase,
+includes, startsWith, endsWith, repeat)
+Template literals
+
+Numbers & Math
+Number methods (toFixed, parseInt, parseFloat, isNaN, isFinite)
+Math object (Math.floor, Math.ceil, Math.round, Math.random, Math.max, Math.min, Math.abs,
+Math.pow, Math.sqrt)
+Date & Time
+Date object
+Date.now(), getFullYear(), getMonth(), getDate(), getDay(), getHours(), getMinutes(), getSeconds()
+Setting date & time
+ES + Features
+let & const
+Arrow functions
+Template literals
+Destructuring (arrays & objects)
+Default parameters
+Spread & rest operators
+Classes & inheritance
+Modules (export & import)
+Promises
+Async/Await
+Map & Set
+WeakMap & WeakSet
+Optional chaining (?.)
+Nullish coalescing (??)
+DOM (Document Object Model)
+Selecting elements (getElementById, querySelector, getElementsByClassName,
+getElementsByTagName)
+Manipulating elements (innerHTML, textContent, style, classList)
+Adding & removing elements
+Event listeners (addEventListener)
+Event object
+Form handling
+DOM traversal
+BOM (Browser Object Model)
+window object
+alert, prompt, confirm
+location object
+history object
+
+navigator object
+Timers (setTimeout, setInterval, clearTimeout, clearInterval)
+Advanced Concepts
+Closures
+Scope (global, local, block)
+Hoisting
+this keyword
+Prototypes & prototype chain
+Inheritance
+IIFE (Immediately Invoked Function Expressions)
+Recursion
+Currying
+Memoization
+Debounce & Throttle
+Modules (CommonJS, ES Modules)
+Asynchronous JavaScript
+Callbacks
+Promises
+Async/Await
+Fetch API / AJAX
+Error handling (try...catch)
+Error Handling
+try...catch...finally
+throw statement
+Error object
+Custom errors
+Storage & Cookies
+localStorage
+sessionStorage
+Cookies
+Regular Expressions (Regex)
+Basic patterns
+Character sets & ranges
+Quantifiers
+Groups & capturing
+
+Flags (g, i, m, s, u, y)
+JavaScript Design Patterns
+Module pattern
+Singleton
+Factory
+Observer
+Revealing module pattern
+MVC basics in JS
+Security & Best Practices
+Avoid global variables
+Input validation
+XSS prevention
+CSRF awareness
+Using strict mode

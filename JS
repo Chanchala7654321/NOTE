@@ -1,0 +1,87 @@
+# JavaScript Notes 📘
+
+Here’s a comprehensive list of JavaScript topics categorized for easy reference:
+
+---
+
+### **1. Basics of JavaScript**
+- What is JavaScript
+- JavaScript History
+- JavaScript Syntax
+- Adding JavaScript to HTML
+- Comments in JavaScript
+
+---
+
+### **2. Variables and Data Types**
+- var, let, const
+- Primitive Data Types
+- Non-Primitive Data Types
+- typeof Operator
+
+---
+
+### **3. Operators**
+- Arithmetic Operators
+- Assignment Operators
+- Comparison Operators
+- Logical Operators
+- Ternary Operator
+
+---
+
+### 4. Control Flow
+- if / else
+- switch statement
+- Conditional operator
+
+---
+
+### 5. Loops
+- for loop
+- while loop
+- do...while
+- for...of
+- for...in
+
+---
+
+### 6. Functions
+- Function declaration
+- Function expression
+- Arrow functions
+- Callback functions
+- Higher order functions
+
+---
+
+### 7. Arrays
+- Creating arrays
+- Array methods
+- map()
+- filter()
+- reduce()
+
+---
+
+### 8. Objects
+- Object properties
+- Object methods
+- this keyword
+- Object destructuring
+
+---
+
+### 9. DOM Manipulation
+- Selecting elements
+- Changing content
+- Creating elements
+- Removing elements
+
+---
+
+### 10. Asynchronous JavaScript
+- Callbacks
+- Promises
+- async / await
+- Fetch API
