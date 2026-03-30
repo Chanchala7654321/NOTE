@@ -37,6 +37,20 @@
 - Membership Operators (`in`, `not in`)  
 - Identity Operators (`is`, `is not`)  
 
+
+
+### **4. Python Operators**
+- Arithmetic Operators: Arithmetic Operators Section (Addition +, Subtraction -, Multiplication *, Division /, Floor Division //, Modulus %, Power **)
+- Assignment Operators: Assignment Operators Section in Python *(=, +=, -=, *=, /=, %=, //=, *=, &=, |=, ^=, >>=, <<=, :=)
+- Comparison Operators: Comparison Operators Section in Python (Equal ==, Not Equal !=, Greater Than >, Less Than <, Greater Than or Equal >=, Less Than or Equal <=)
+- Logical Operators: Logical Operators Section in Python (and, or, not)
+- Identity Operators: Identity Operators Section in Python (is, is not)
+- Membership Operators: Membership Operators Section in Python (in, not in)
+- Bitwise Operators: Bitwise Operators Section in Python (&, |, ^, ~, <<, >>)
+- Comments: Comments Section in Python (Single-line Comment #, Multi-line Comment ''' ''' or """ """)
+
+
+
 ---
 
 ### **5. Control Flow**

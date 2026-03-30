@@ -1,0 +1,198 @@
+
+
+
+### **1. Component Architecture & JSX**
+- Declarative vs Imperative UI
+- Virtual DOM overview
+- Vite vs CRA
+- index.html & main.jsx relationship
+- JSX syntax (curly braces `{}`)
+- className vs class
+- <React.Fragment>
+- camelCase properties
+- Creating components
+- Default vs Named imports/exports
+- Component nesting
+- Building component tree
+- React 18 features (Concurrent Rendering, Automatic Batching, StrictMode)
+
+---
+
+### **2. Data Flow (Props) & Rendering**
+- Props basics (primitives, objects)
+- Read-only nature of props
+- Destructuring props
+- Default props
+- Conditional rendering (`? :`, `&&`, `if/else`)
+- Rendering lists using `.map()`
+- Importance of key prop
+- Avoiding index as key
+- React DevTools
+- Inspecting component tree
+
+---
+
+### **3. Interactivity (State & Events)**
+- Event handling (`onClick`, `onChange`, `onSubmit`)
+- e.preventDefault()
+- Passing arguments to handlers
+- useState basics
+- State as snapshot
+- Async updates
+- Updater functions (`prev => prev + 1`)
+- Complex state updates
+- Immutability (spread operator)
+- Updating arrays (`map`, `filter`)
+- Controlled vs Uncontrolled components
+- Form handling
+- Basic validation
+- Lifting state up
+
+---
+
+### **4. The Data Layer (useEffect)**
+- What are side effects
+- useEffect structure
+- Dependency arrays (`[]`)
+- Mount vs update behavior
+- API fetching (Fetch vs Axios)
+- Async/await usage
+- Managing loading state
+- Handling errors
+- Cleanup functions
+- Preventing memory leaks
+- Debouncing
+
+---
+
+### **5. Advanced Local State (useReducer)**
+- useReducer vs useState
+- Reducer function `(state, action) => newState`
+- Action structure (`type`, `payload`)
+- Dispatch pattern
+- Managing complex state
+- CRUD operations
+- Immutable updates
+- Using Immer
+
+---
+
+### **6. Global State (Context API)**
+- Prop drilling problem
+- createContext
+- Provider and value
+- useContext
+- Updating context
+- Context + Reducer pattern
+- Optimization techniques
+- Preventing unnecessary re-renders
+
+---
+
+### **7. DOM Manipulation & Refs**
+- useRef basics
+- Persist values without re-render
+- Accessing DOM elements
+- Auto focus inputs
+- Measuring DOM
+- forwardRef
+- useImperativeHandle
+- Exposing custom methods
+
+---
+
+### **8. Modern Routing I (Declarative)**
+- BrowserRouter
+- Routes and Route
+- Link vs anchor tag
+- NavLink
+- Dynamic routes (`/users/:id`)
+- useParams
+- Query params (useSearchParams)
+- Nested routes
+- Outlet
+- useNavigate
+- Route guards
+- Navigate
+
+---
+
+### **9. Modern Routing II (Data Mode)**
+- createBrowserRouter
+- RouterProvider
+- Loaders
+- useLoaderData
+- Actions
+- Form component
+- useActionData
+- Error handling (errorElement)
+- useRouteError
+- Loading states (useNavigation)
+
+---
+
+### **10. Server State (React Query Basics)**
+- Client vs Server state
+- QueryClient setup
+- QueryClientProvider
+- useQuery
+- Query keys
+- Loading and error states
+- DevTools
+- Caching (staleTime, gcTime)
+- Background refetching
+- Polling
+
+---
+
+### **11. Server State (React Query Advanced)**
+- useMutation
+- POST, PUT, DELETE
+- Mutation lifecycle (onSuccess, onError)
+- Query invalidation
+- Optimistic updates
+- Rollbacks
+- Pagination
+- Infinite scrolling (useInfiniteQuery)
+
+---
+
+### **12. Performance & Optimization**
+- React Profiler
+- Identifying re-renders
+- React.memo
+- Custom comparison
+- useMemo
+- useCallback
+- Referential equality
+- Code splitting (import())
+- React.lazy
+- Suspense
+
+---
+
+### **13. Custom Hooks**
+- Creating custom hooks
+- Reusable logic
+- Extracting state and effects
+- Examples (useFetch, useAuth, useWindowSize)
+
+---
+
+### **14. Project Practice (Integration)**
+- Portfolio layout
+- Job board
+- Weather app
+- Expense tracker
+- Auth system
+- Image slider
+- Multi-page app
+- Movie DB
+- Dashboard with React Query
+- Infinite feed
+
+---
+
+
+
+
