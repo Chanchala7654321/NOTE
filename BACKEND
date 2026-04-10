@@ -1,0 +1,131 @@
+
+# Backend Roadmap 📘
+
+Here’s a comprehensive list of Backend topics categorized for easy reference:
+
+---
+
+### **1. Core JavaScript**
+- Variables (var, let, const)
+- Data Types
+- Loops
+- Functions
+- Array methods (map, filter, reduce)
+- Object methods
+- Arrow functions
+- Destructuring
+- Spread operator
+
+---
+
+### **2. Async JavaScript**
+- Callbacks
+- Promises
+- async/await
+- try/catch
+- Promise.all()
+
+---
+
+### **3. Database (PostgreSQL)**
+- SQL Basics
+- CREATE
+- SELECT
+- UPDATE
+- DELETE
+- WHERE clause
+- Joins (INNER, LEFT)
+- Indexes (basic idea)
+- Foreign Keys
+- Relationships
+
+---
+
+### **4. Database (MongoDB Alternative)**
+- What is MongoDB
+- NoSQL vs SQL
+- Database → Collection → Document
+- BSON vs JSON
+- insertOne()
+- insertMany()
+- find()
+- findOne()
+- updateOne()
+- updateMany()
+- findOneAndUpdate()
+- deleteOne()
+- deleteMany()
+- Filtering documents
+- Sorting results
+- limit()
+- skip()
+- $regex search
+
+---
+
+### **5. Node.js Fundamentals**
+- What is Node.js
+- Event loop
+- Single-threaded architecture
+- Non-blocking I/O
+- fs module
+- path module
+- events module
+- http module
+- Creating HTTP server
+- npm
+- package.json
+- dependencies
+- scripts
+- Environment variables (dotenv)
+
+---
+
+### **6. Express.js**
+- Installing Express
+- Creating Express server
+- Routing (GET, POST, PATCH, DELETE)
+- Route parameters
+- Query parameters
+- Middleware (built-in)
+- Custom middleware
+- req handling
+- res handling
+- Error handling middleware
+- Folder structure (MVC / Clean Architecture)
+- Testing APIs (Postman / Thunder Client)
+
+---
+
+### **7. ORM (Prisma / Sequelize / Objection)**
+- ORM basics
+- schema.prisma model design
+- prisma migrate dev
+- prisma studio
+- findMany()
+- create()
+- update()
+- delete()
+- Relations
+- One to One
+- One to Many
+- Many to Many
+
+---
+
+### **8. Authentication & Authorization**
+- JWT authentication
+- jsonwebtoken
+- Login / Register
+- Token generation
+- Token verification
+- Auth middleware
+- Role-based permissions
+- Admin routes
+- Protected routes
+- User routes
+
+---
+
+
+
